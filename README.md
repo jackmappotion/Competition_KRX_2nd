@@ -28,3 +28,6 @@
 > coeff_coeff : 0.0634982176
 > coeff_mean : 0.1963007663S
 > coeff_coeff + coeff_mean : 0.029646973
+
+## Final Model
+## Similarity based로 가는게 좋을듯 하다.
